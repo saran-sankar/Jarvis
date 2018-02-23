@@ -1,0 +1,14 @@
+p=0
+pp=0
+end=0
+name='Saran'
+modestCount=0
+hey=0
+bad=0
+iPhoneMode=0
+specKeyw=-1
+shortform=0
+yeah=0
+nope=0
+gend=0
+teach1=0
