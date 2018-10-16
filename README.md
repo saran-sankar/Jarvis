@@ -1,4 +1,4 @@
-# Jarvis_AI by Stykes
+# Jarvis_AI 
 # READ THIS BEFORE START USING
 Jarvis_AI is a virtual assistant application that can be run in your terminal or in any python environment. You may want to install the nltk (natural language processing toolkits) for better features and performance.
 For the best accesibility and user friendly experience, save the folder, Jarvis, in your default directory and execute "python3 Jarvis/Jarvis_AI.py" in your terminal.
@@ -15,6 +15,4 @@ features:
 
 PS: install nltk documentaion: https://www.nltk.org/install.html
 
-Feedbacks/Report bugs: stykesfeedback@gmail.com
 
-©2017 BY ETHAN STYKES
