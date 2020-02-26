@@ -1,6 +1,6 @@
-# Jarvis_AI 
+# Jarvis
 
-Jarvis_AI is a virtual assistant application that can be run in your terminal or in any python environment. 
+Jarvis is a virtual assistant application that can be run in your terminal or in any python environment. 
 
 Features:
 1.Gets direct answer from internet for your questions
